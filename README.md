@@ -7,7 +7,7 @@
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-leandro.dev-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](https://leandrodev-beta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Rosendo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-rosendo--/)
-[![Email](https://img.shields.io/badge/Email-leandrotrosendo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrotrosendo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leandrotrosendo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrosoft0813@gmail.com)
 
 </div>
 
